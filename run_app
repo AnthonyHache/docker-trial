@@ -1,0 +1,1 @@
+docker run -p 80:80 -v /home/ahache/git/docker-trial/src/:/var/www/html/ hello-world
